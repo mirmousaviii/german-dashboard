@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/german-dashboard/static/css/main.6674447e.css",
+    "main.js": "/german-dashboard/static/js/main.ccd90ff7.js",
+    "index.html": "/german-dashboard/index.html",
+    "main.6674447e.css.map": "/german-dashboard/static/css/main.6674447e.css.map",
+    "main.ccd90ff7.js.map": "/german-dashboard/static/js/main.ccd90ff7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6674447e.css",
+    "static/js/main.ccd90ff7.js"
+  ]
+}
